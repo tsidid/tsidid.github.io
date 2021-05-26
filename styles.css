@@ -1,0 +1,10 @@
+
+      .footer{
+
+        background:#eeeeee;
+        height: 250px;
+      }
+
+      .list-group li{
+        display:inline-block !important;
+      }
